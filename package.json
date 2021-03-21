@@ -43,7 +43,7 @@
     "mocha": "^6.2.2",
     "modernizr": "3.8.0",
     "normalize.css": "8.0.1",
-    "ssri": "^7.1.0",
+    "ssri": "^8.0.1",
     "strip-json-comments": "^3.0.1"
   },
   "engines": {
